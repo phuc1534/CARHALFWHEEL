@@ -91,4 +91,4 @@ void loop() {
 }
 ```
 
-Và hy vọng là các tương tác giờ đây đã bằng tiếng Việt.
+Và hy vọng là các tương tác giờ đây đã bằng tiếng Việt. At least that’s what we hope for.
